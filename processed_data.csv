@@ -1,0 +1,6 @@
+Name,Age,Gender,Salary,Department_Engineering,Department_HR,Department_Marketing
+Alice,-1.414214,0,-1.341641,0,1,0
+Bob,-0.707107,1,0.000000,1,0,0
+Charlie,1.414214,1,0.447214,0,1,0
+David,0.000000,1,1.341641,0,0,1
+Eva,0.707107,0,0.223607,1,0,0
